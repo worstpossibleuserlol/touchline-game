@@ -1,0 +1,85 @@
+TOUCHLINE — GAME FEATURES
+Version 2.4
+
+==================================================
+
+1. FOOTBALL CLUB MANAGEMENT
+
+- Manage your own football club.
+- Monitor club finances.
+- Manage squad progression.
+- Improve club facilities.
+- Develop your club over time.
+
+2. PLAYER MANAGEMENT
+
+- Manage your players.
+- Monitor player condition.
+- Develop young talents.
+- Promote academy prospects.
+- Maintain squad readiness.
+
+3. SCOUTING SYSTEM
+
+- Discover potential players.
+- Review scouting reports.
+- Track shortlisted prospects.
+- Build toward future squad improvements.
+
+4. YOUTH ACADEMY
+
+- Develop young players.
+- Discover new academy prospects.
+- Promote promising talents into the senior squad.
+
+5. MATCHDAY EXPERIENCE
+
+- Play interactive arcade-style football matches.
+- Set up your team before matches.
+- Choose available match presets.
+- Pass, shoot, tackle, sprint, and switch players.
+- Build attacks and compete on the pitch.
+
+6. STADIUM MANAGEMENT
+
+- Upgrade stadium facilities.
+- Manage stadium capacity.
+- Monitor attendance.
+- Invest in your club's infrastructure.
+
+7. FINANCIAL MANAGEMENT
+
+- Monitor club finances.
+- Manage available funds.
+- Make decisions about club improvements.
+- Balance spending and development.
+
+8. SAVE SYSTEM
+
+- Automatic local browser progress storage.
+- Export save backups.
+- Import compatible backups.
+- Improved handling of incomplete or invalid save data.
+
+9. ACCESSIBILITY AND COMPATIBILITY
+
+- Standalone HTML game.
+- Designed for modern web browsers.
+- Desktop and mobile-friendly interface.
+- No dedicated server required for core gameplay.
+
+10. DEVELOPMENT PRIORITIES
+
+Touchline development focuses on:
+
+- Gameplay stability.
+- Better user experience.
+- More management depth.
+- Improved matchday systems.
+- Save-data reliability.
+- Future feature expansion.
+
+==================================================
+
+TOUCHLINE VERSION 2.4
+BUILD YOUR CLUB. TAKE IT ONTO THE PITCH.
