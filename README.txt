@@ -25,7 +25,7 @@ Features
 
 How to Play
 
-Open "index.html" in a modern web browser to launch the game.
+Open the ".html" file in a modern web browser to launch the game.
 
 Your progress is saved locally in your browser. Use the Save Centre to export backups regularly.
 
