@@ -1,0 +1,96 @@
+TOUCHLINE — DEVELOPMENT INFORMATION
+Current Release: Version 2.4
+Project Type: Browser-Based Football Game
+
+==================================================
+
+1. PROJECT OVERVIEW
+
+Touchline is an independent browser-based football management and matchday game.
+
+The project combines football club management with interactive arcade-style matches. Its goal is to provide a lightweight football gaming experience that can run directly in a modern web browser.
+
+2. DEVELOPMENT GOALS
+
+The development of Touchline focuses on:
+
+- Creating an accessible football game.
+- Combining management and match gameplay.
+- Building a functional club progression system.
+- Supporting desktop and mobile browsers.
+- Keeping the game playable without requiring a dedicated server.
+- Improving stability through regular bug fixes and testing.
+
+3. CORE GAME SYSTEMS
+
+Touchline includes several interconnected systems:
+
+CLUB MANAGEMENT
+Manage club finances, squad development, and stadium improvements.
+
+PLAYER DEVELOPMENT
+Develop players, manage their condition, and discover young talent through the academy.
+
+SCOUTING
+Search for potential players and manage scouting reports.
+
+MATCHDAY
+Prepare the team and play interactive football matches using arcade-style controls.
+
+STADIUM
+Improve stadium facilities and manage capacity and attendance.
+
+SAVE SYSTEM
+Store progress locally in the browser, with backup and restore functionality.
+
+4. TECHNICAL DEVELOPMENT
+
+Touchline is built using web technologies:
+
+- HTML for the game structure.
+- CSS for visual presentation and layout.
+- JavaScript for gameplay, management systems, and interactions.
+
+The game is designed as a standalone HTML project. Its core gameplay does not require a dedicated backend server.
+
+5. RELEASE DEVELOPMENT
+
+VERSION 2.4
+
+The 2.4 release focuses on stability improvements and minor gameplay additions.
+
+Development priorities include:
+
+- Improving save-data handling.
+- Strengthening backup and restore behavior.
+- Improving handling of incomplete or invalid data.
+- Correcting stadium attendance calculations.
+- Improving match preset options.
+- Updating the Save Centre.
+
+6. DEVELOPMENT PHILOSOPHY
+
+Touchline follows an iterative development approach.
+
+New features are introduced gradually, while existing systems are reviewed for bugs, compatibility, and usability.
+
+Stability and reliable save handling are important priorities for future releases.
+
+7. FUTURE DEVELOPMENT
+
+Potential future improvements include:
+
+- More matchday features.
+- Expanded player development.
+- Additional club management options.
+- Improved match presentation.
+- More detailed statistics.
+- Further mobile usability improvements.
+- Additional bug fixes and performance improvements.
+
+Future features are subject to development and testing.
+
+==================================================
+
+END OF DEVELOPMENT INFORMATION
+TOUCHLINE — VERSION 2.4
