@@ -1,29 +1,44 @@
-﻿TOUCHLINE — VERSION 2.3 RELEASE
+TOUCHLINE
 
-QUICK START
+Version 2.4
 
-1. Open "index.html" in a modern browser (Chrome, Edge, Firefox or Safari).
-2. Open Release Centre from the left menu.
-3. Use Matchday Lab to set weather, pitch, wind, ball, referee, difficulty and match length.
-4. Press Apply Match Settings, then open Play and start a match.
-5. Manage finances, stadium, academy, scouting, player care, kits and analytics from Release Centre.
+About the Game
 
-MOBILE CONTROLS
+Touchline is a browser-based football management and matchday game where you take control of your own football club.
 
-The R3 touch controls are preserved: MOVE joystick, PASS, THRU, SHOOT, LOB, TACKLE, SWITCH, hold SPRINT, SHIELD and SKILL. Use landscape orientation for more pitch visibility. Keep one finger on the joystick while pressing an action with another finger.
+Build your club, manage your squad, develop young talents, scout new players, maintain player condition, manage finances, and improve your stadium.
 
-SAVE DATA
+When matchday arrives, take your team onto the pitch in an arcade-style football experience. Use passing, shooting, tackling, sprinting, player switching, and other controls to compete in matches.
 
-Progress is stored locally in this browser. Use Release Centre > Save Centre to create a backup, restore a local backup, export JSON or import a save. Clearing site data can erase progress. For another device, export the save and import it there.
+Features
 
-BUILD DETAILS
+- Football club management
+- Squad and player development
+- Youth academy and scouting
+- Player care and condition management
+- Club finances and stadium upgrades
+- Interactive arcade-style matches
+- Match presets
+- Local save system
+- Save backup and restore options
+- Standalone browser gameplay
 
-- Version: 2.3.0 Release
-- Base: Touchline 2.2 Beta R3 Control Hotfix
-- Mode: Offline browser game
-- Match format: 7v7 prototype
-- External dependencies: None
+How to Play
 
-IMPORTANT
+Open "index.html" in a modern web browser to launch the game.
 
-The new academy, scouting and financial systems are fictional game systems. Matchday camera and a few accessibility preferences are saved configuration options; not all are implemented as full broadcast features.
+Your progress is saved locally in your browser. Use the Save Centre to export backups regularly.
+
+Important Notes
+
+- Touchline is designed as a standalone HTML game.
+- No server is required for its core gameplay.
+- Save data is stored locally on your device and browser.
+- Clearing browser data may erase your progress.
+- Export a backup before switching devices or clearing browser storage.
+
+Release
+
+Touchline 2.4
+
+Build your club. Develop your players. Take it onto the pitch.
