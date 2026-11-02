@@ -1,0 +1,39 @@
+﻿TOUCHLINE 2.3 RELEASE — BUG SCAN REPORT
+
+BUILD ARTIFACTS
+- Standalone HTML size: 333,333 bytes (>200 KB target): PASS.
+- Package includes index.html, README, PATCH_NOTES and VERSION: PASS.
+- ZIP archive integrity check: PASS.
+- All embedded JavaScript blocks passed Node syntax validation: PASS.
+
+CHROMIUM REGRESSION MATRIX
+Viewports tested: 390×844 portrait, 360×740 portrait, 844×390 landscape, 1280×800 desktop.
+- Release Centre navigation: PASS on all four viewports.
+- All 10 Release Centre tabs render: PASS.
+- Matchday weather, pitch, wind, ball and difficulty settings persist: PASS.
+- Weekly account settlement and duplicate-settlement guard: PASS.
+- Club week advances only after settlement: PASS.
+- Youth intake and promotion into first-team squad: PASS.
+- Scouting report generation and shortlist: PASS.
+- Squad rest / player-care operation: PASS.
+- Club name and short-name validation/save: PASS.
+- Stadium capacity upgrade and credit deduction: PASS.
+- Local save backup creation: PASS.
+- Match start with saved weather/difficulty/duration: PASS.
+- PASS, SHOOT and LOB action regression: PASS.
+- Match-end report pipeline: PASS.
+- Browser page errors in tested flows: none observed.
+- Browser console errors in tested flows: none observed.
+
+BUGS FOUND DURING DEVELOPMENT AND FIXED
+- Mobile shell retained a two-column desktop grid at narrow widths; forced a single-column mobile layout.
+- Weekly account settlement could be repeated immediately after settlement; separated account settlement from club-week advancement.
+- The weekly payroll affordability check now accounts for income arriving in the same settlement.
+- New release controls are namespaced under save.v23 to avoid resetting earlier saves.
+- A temporary hotkey conflict with the existing tackle / through-pass keys was removed.
+- Existing R3 action controls remain in place; no replacement pointer listeners were added.
+
+TEST LIMITS
+- Automated browser testing used Chromium and emulated viewport/touch input; no physical Android or iOS device was available for this scan.
+- A clean test run does not prove the absence of every possible bug.
+- The project remains an offline 7v7 prototype; advanced broadcast, officiating and full 11v11 systems are outside this build.
