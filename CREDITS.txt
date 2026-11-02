@@ -1,0 +1,26 @@
+TOUCHLINE — CREDITS
+Version 2.4
+
+PROJECT
+Touchline is an independent browser-based football management and matchday game.
+
+DEVELOPMENT
+Game creator: worstpossibleuserlol
+Game development: Touchline development team
+
+TOOLS AND TECHNOLOGIES
+
+- HTML
+- CSS
+- JavaScript
+- Modern web browsers
+
+ACKNOWLEDGEMENTS
+Thanks to everyone who tested the game, reported bugs, suggested improvements, and supported its development.
+
+THIRD-PARTY ASSETS
+Third-party assets, libraries, fonts, and resources should be credited here when used.
+
+COPYRIGHT
+Copyright © 2026 - worstpossibleuserlol
+All rights reserved, subject to the project's applicable license.
