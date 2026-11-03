@@ -1,7 +1,5 @@
 TOUCHLINE
 
-Version 2.4
-
 About the Game
 
 Touchline is a browser-based football management and matchday game where you take control of your own football club.
@@ -37,8 +35,6 @@ Important Notes
 - Clearing browser data may erase your progress.
 - Export a backup before switching devices or clearing browser storage.
 
-Release
-
-Touchline 2.4
+TOUCHLINE
 
 Build your club. Develop your players. Take it onto the pitch.
